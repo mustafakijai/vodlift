@@ -1,6 +1,6 @@
 # VodLift
 
-**You stream. We clip & post everywhere.** VodLift is a done-for-you clipping service for Twitch, YouTube and Kick streamers. We take your VOD, find the best moments, cut them into captioned vertical clips and schedule them to TikTok, YouTube Shorts, Instagram Reels and X. It's *powered by [Postiz](https://postiz.com)*.
+**You stream. We clip & post everywhere.** VodLift is a done-for-you clipping service for Twitch, YouTube and Kick streamers. We take your VOD, find the best moments, cut them into captioned vertical clips and schedule them to TikTok, YouTube Shorts, Instagram Reels and X. It's *powered by [Nexora Aero](https://nexoraaero.com)*.
 
 **Live site:** https://mustafakijai.github.io/vodlift/
 
@@ -48,7 +48,7 @@ Search `index.html` (or `src/template.html`) for `TODO`:
 
 - `#TODO-stripe-link-starter`, `#TODO-stripe-link-growth`, `#TODO-stripe-link-pro`: Stripe Payment Links
 - `#TODO-apply-form-endpoint`, `#TODO-waitlist-form-endpoint`: form endpoints (Formspree etc.)
-- `TODO-contact-email@postiznow.com`: real contact email
+- `TODO-contact-email@nexoraaero.com`: real contact email
 - `#TODO-terms-page`, `#TODO-privacy-page`: legal pages
 - `TODO-og-image`: social share image
 
@@ -56,7 +56,7 @@ Search `index.html` (or `src/template.html`) for `TODO`:
 
 ## Hosting
 
-GitHub Pages serves the site from the `main` branch root. To host it on your own domain (e.g. postiznow.com), upload `index.html` together with `assets/`.
+GitHub Pages serves the site from the `main` branch root. To host it on your own domain (e.g. nexoraaero.com), upload `index.html` together with `assets/`.
 
 ## License
 

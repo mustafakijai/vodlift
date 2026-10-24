@@ -1,11 +1,11 @@
 # VodLift: Offer
 
-*VodLift: done-for-you stream clipping, powered by Postiz.*
+*VodLift: done-for-you stream clipping, powered by [Nexora Aero](https://nexoraaero.com).*
 
-*Draft, October 23, 2026. Landing page: `index.html` (live on GitHub Pages, can also be deployed to postiznow.com).*
+*Draft, October 23, 2026. Landing page: `index.html` (live on GitHub Pages, can also be deployed to nexoraaero.com).*
 
 ## One-liner
-**You stream. We clip, caption and post everywhere.** Send us your VOD and we turn it into captioned vertical highlight clips, then schedule them to TikTok, YouTube Shorts, Instagram Reels and X through Postiz. It's a done-for-you service, so the streamer doesn't have to edit or upload anything.
+**You stream. We clip, caption and post everywhere.** Send us your VOD and we turn it into captioned vertical highlight clips, then schedule them to TikTok, YouTube Shorts, Instagram Reels and X with our own multi-platform scheduler. It's a done-for-you service, so the streamer doesn't have to edit or upload anything.
 
 ## Positioning
 | Option | What it does | What the streamer still has to do | Public price (checked Oct 2026) |
@@ -16,7 +16,7 @@
 | Done-for-you clipping services (e.g. VodCuts) | Humans deliver MP4 clips | Post them themselves | $79/mo for 20 clips, $199/mo for 96 clips (no posting) |
 | Freelance clippers | Manual edits | Brief the editor, upload, post | Roughly $2–$50 per clip depending on quality |
 
-**Our edge:** finding the moments, editing them, and scheduling them to four platforms all happen in one place, and we do the work. The tools above are self-serve, and the services stop at the MP4 file. We run the whole loop through Postiz, where the streamer can approve or edit anything on their calendar.
+**Our edge:** finding the moments, editing them, and scheduling them to four platforms all happen in one place, and we do the work. The tools above are self-serve, and the services stop at the MP4 file. We run the whole loop ourselves, and the streamer can approve or change anything on their VodLift posting calendar.
 
 **Why the prices land:** Starter works out to about $0.83 per clip (Growth about $0.67, Pro about $0.83), including posting to four platforms. That's far below freelancers and clip-only services, and below most self-serve AI clipping apps, which still leave the editing and posting to the streamer.
 
@@ -35,7 +35,7 @@
 | Turnaround | 48h after VOD received | 48h | **24h** |
 | Platforms scheduled | TikTok, YouTube Shorts, Instagram Reels, X | Same 4 + best-time scheduling | Same 4 + Threads, Bluesky and Facebook on request |
 | Format | 9:16, 15–60s, burned-in word-by-word captions, stacked / full / side-by-side layouts | + custom caption style, colors and font, on-screen hook text, zoom cuts | + priority editor, direct chat |
-| Extras | Platform-specific captions and hashtags, hosted Postiz workspace | + monthly "what worked" summary | + **1 YouTube highlight compilation (5–10 min) per month** |
+| Extras | Platform-specific captions and hashtags, multi-platform scheduling | + monthly "what worked" summary | + **1 YouTube highlight compilation (5–10 min) per month** |
 | Revisions | 1 per clip | 2 per clip | Unlimited (within reason) |
 
 Unused clips don't roll over. Custom and team plans are quoted on request.
@@ -52,7 +52,7 @@ Pro costs a little more per clip than Growth because it adds 24h turnaround, ext
 
 **Margin warning at these prices:** at under $1 per clip, there's no room for 5–10 minutes of human editing per clip. To make money, lean on the included clipper for the first pass and keep human review to a quick approve/fix pass (about 1–2 minutes per clip). Treat the low prices as a launch strategy and plan to raise them for new signups once you have results and testimonials.
 
-**Rough delivery cost:** the included clipper costs nothing (CPU only). Optionally add one AI clipping seat (e.g. Opus Clip Pro at $29/mo for 300 min per pack, adding packs as volume grows) plus hosted Postiz for each client. You're not paying Postiz anyone else's prices, since it's your product. The rest is editing time, roughly 5–10 minutes per clip once the AI has shortlisted moments.
+**Rough delivery cost:** the included clipper costs nothing (CPU only). Optionally add one AI clipping seat (e.g. Opus Clip Pro at $29/mo for 300 min per pack, adding packs as volume grows) plus the running cost of the scheduling backend behind the VodLift posting calendar (see checklist). The rest is editing time, roughly 5–10 minutes per clip once the AI has shortlisted moments.
 
 ## The demo on the landing page
 The "See it work" section is real pipeline output, not a mockup. `clipper/clip.py` was run on a 14:30 Creative Commons stream recording ("Storage Space and Smelting Trees – Ayums Ep. 5" by benrob0329, CC BY-SA 4.0, Internet Archive). It picked 3 moments automatically and exported TikTok, Reels and Shorts (1080×1920) plus X (1080×1080) versions. The page labels it as a stock-footage demo, and it shows no client results. Swap in a real client's clips (with their permission) once you have them.
@@ -61,15 +61,15 @@ The "See it work" section is real pipeline output, not a mockup. `clipper/clip.p
 **"Love your first batch, or it's free."** If the streamer isn't happy with their first week of clips, we redo them. If they're still not happy, we refund the first month in full. Every plan is cancel-anytime with no contract, and the streamer keeps every MP4.
 
 ## First-week launch offer
-1. **Free 3-clip sample.** No card needed. We deliver 3 finished, captioned clips from a recent VOD within 48h, plus a preview on a Postiz calendar. This is the main call to action and gets the quickest yes.
+1. **Free 3-clip sample.** No card needed. We deliver 3 finished, captioned clips from a recent VOD within 48h, plus a preview of their posting schedule. This is the main call to action and gets the quickest yes.
 2. **Close with the plan price.** No discount: at $10 / $20 / $50 the price is already the hook. Close every sample with: *"Want these every week? It's $10 a month for about 12 clips, posted for you. Cancel anytime."*
 3. Suggested week-one plan: send 20–30 personal pitches a day (offering the free sample), deliver samples within 48h, and follow up with the plan link. 3–5 paying streamers by day 7 is a realistic goal, not a promise.
 
 **Outreach DM template** (personalize the first line):
-> Hey {name}, caught your {game} stream, and that {specific moment} would've done numbers as a Short. I run VodLift: we turn your VODs into captioned clips and schedule them to TikTok, Shorts, Reels and X for you. Want 3 free clips from your last stream? No card, no strings: postiznow.com/{page}
+> Hey {name}, caught your {game} stream, and that {specific moment} would've done numbers as a Short. I run VodLift: we turn your VODs into captioned clips and schedule them to TikTok, Shorts, Reels and X for you. Want 3 free clips from your last stream? No card, no strings: {landing page link}
 
 ## Self-serve version (waitlist, "coming soon")
-**VodLift Autopilot**: paste a VOD link and AI clips, captions and schedules everything inside Postiz. The landing page collects emails now. Build it once the service has paying clients, then offer early-access pricing to the waitlist.
+**VodLift Autopilot**: paste a VOD link and AI clips, captions and schedules everything automatically. The landing page collects emails now. Build it once the service has paying clients, then offer early-access pricing to the waitlist.
 
 ## Setup checklist to take payments and leads
 
@@ -82,12 +82,12 @@ The "See it work" section is real pipeline output, not a mockup. `clipper/clip.p
 **Leads**
 - [ ] Free-sample form: create a Formspree, Tally or Google Form endpoint and set it as the `action` of `#applyForm` (`#TODO-apply-form-endpoint`). The JS already submits by POST and accepts a JSON response, which works with Formspree as-is. For Tally or Google Forms, embed theirs or link to it instead.
 - [ ] Waitlist form: set the endpoint for `#waitlistForm` (`#TODO-waitlist-form-endpoint`), e.g. Formspree, ConvertKit, Buttondown or Mailchimp.
-- [ ] Add a real contact email in place of `TODO-contact-email@postiznow.com`.
+- [ ] Add a real contact email in place of `TODO-contact-email@nexoraaero.com`.
 - [ ] Publish basic Terms and Privacy pages (`#TODO-terms-page`, `#TODO-privacy-page`). Include content rights, the refund policy and social-account access.
 - [ ] Optional: add an OG share image (`TODO-og-image` comment in `<head>`).
 
 **Delivery**
-- [ ] Hosted Postiz workspace template for clients, with TikTok, YouTube, Instagram and X connected by the client.
+- [ ] Build or choose the scheduling backend behind the VodLift posting calendar (TikTok, YouTube, Instagram and X access granted by the client). The calendar on the landing page is a mockup. Until the backend exists, schedule clips with each platform's native scheduler or send clients the files and captions.
 - [ ] Clipping: first pass with the included `clipper/clip.py` (free, runs locally: transcribe → score → 9:16 captioned exports per platform), then an editor review. Optionally, a clipping tool account (Opus Clip / StreamLadder / Eklipse) as a backup.
 - [ ] A shared folder for each client for the MP4s.
-- [ ] Deploy: the site is on GitHub Pages already. To put it on postiznow.com, upload `index.html` plus the `assets/` folder (e.g. at `/streamers/`), or point a subdomain at Pages with a CNAME.
+- [ ] Deploy: the site is on GitHub Pages already. To put it on nexoraaero.com, upload `index.html` plus the `assets/` folder (e.g. at `/streamers/`), or point a subdomain at Pages with a CNAME.

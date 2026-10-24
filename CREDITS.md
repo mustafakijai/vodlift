@@ -34,7 +34,7 @@ The photos were resized and converted to WebP. The people in them are stock mode
 - **Figtree** by Erik Kennedy, under the SIL Open Font License 1.1 (`clipper/fonts/OFL.txt`). It's burned into the clips and loaded on the site from Google Fonts.
 
 ## Brand marks
-- **Postiz** name and logo belong to Postiz. They're used here as "powered by Postiz", since VodLift runs on a hosted Postiz instance.
+- **Nexora Aero** name and mark (used in the "Powered by Nexora Aero" badge) belong to Nexora Aero, VodLift's parent brand: https://nexoraaero.com
 - The TikTok, Instagram, YouTube, X, Twitch and Kick names and icons are trademarks of their owners. They're used only to say which platforms are supported.
 - The VodLift mark (`assets/brand/vodlift-mark.svg`) is original artwork.
 
