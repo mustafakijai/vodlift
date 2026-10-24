@@ -18,7 +18,7 @@
 
 **Our edge:** finding the moments, editing them, and scheduling them to four platforms all happen in one place, and we do the work. The tools above are self-serve, and the services stop at the MP4 file. We run the whole loop through Postiz, where the streamer can approve or edit anything on their calendar.
 
-**Why the prices hold up:** Starter works out to about $4 per clip including posting to four platforms. That's cheaper than most freelancers, about the same as clip-only services, and saves the streamer every hour they'd spend in a tool.
+**Why the prices land:** Starter works out to about $0.83 per clip (Growth about $0.67, Pro about $0.83), including posting to four platforms. That's far below freelancers and clip-only services, and below most self-serve AI clipping apps, which still leave the editing and posting to the streamer.
 
 ## Target customer
 - Small and mid-size streamers on **Twitch, YouTube or Kick** who stream 2–6 times a week. A sweet spot is roughly 10–500 average concurrent viewers, though any active streamer qualifies.
@@ -28,7 +28,7 @@
 
 ## Tiers (billed monthly, cancel anytime)
 
-| | **Starter $49/mo** | **Growth $99/mo** ⭐ | **Pro $199/mo** |
+| | **Starter $10/mo** | **Growth $20/mo** ⭐ | **Pro $50/mo** |
 |---|---|---|---|
 | Clips | **3 per week** (~12/mo) | **7 per week** (~30/mo) | **14 per week** (~60/mo, 2 a day) |
 | VODs we work from | Up to 2 per week | Up to 4 per week, pulled automatically | Up to 7 per week |
@@ -40,7 +40,17 @@
 
 Unused clips don't roll over. Custom and team plans are quoted on request.
 
-**Why these numbers:** the $49 / $99 / $199 ladder you suggested holds up. Starter is priced against VodCuts' $79 for 20 clips: fewer clips, but posting is included. Growth is the anchor tier, at about $3.30 per clip with posting. Pro sits at the same $199 as VodCuts Creator but adds 24h turnaround, more platforms and a monthly long-form video. I **capped Pro at 7 VODs a week instead of "unlimited"** because clipping-tool credits are charged per source minute. A daily 4-hour streamer is about 7,000 minutes a month, which would wipe out your margin.
+**Why these numbers:** $10 / $20 / $50 is priced as an easy, impulse-level yes for small streamers. Per clip, with posting to 4 platforms included:
+
+| Plan | Price | Clips / mo | Per clip |
+|---|---|---|---|
+| Starter | $10 | ~12 | ~$0.83 |
+| Growth | $20 | ~30 | ~$0.67 |
+| Pro | $50 | ~60 | ~$0.83 |
+
+Pro costs a little more per clip than Growth because it adds 24h turnaround, extra platforms, a priority editor and a monthly long-form compilation. I **capped Pro at 7 VODs a week instead of "unlimited"** because processing time grows with source minutes. A daily 4-hour streamer is about 7,000 minutes a month.
+
+**Margin warning at these prices:** at under $1 per clip, there's no room for 5–10 minutes of human editing per clip. To make money, lean on the included clipper for the first pass and keep human review to a quick approve/fix pass (about 1–2 minutes per clip). Treat the low prices as a launch strategy and plan to raise them for new signups once you have results and testimonials.
 
 **Rough delivery cost:** the included clipper costs nothing (CPU only). Optionally add one AI clipping seat (e.g. Opus Clip Pro at $29/mo for 300 min per pack, adding packs as volume grows) plus hosted Postiz for each client. You're not paying Postiz anyone else's prices, since it's your product. The rest is editing time, roughly 5–10 minutes per clip once the AI has shortlisted moments.
 
@@ -52,8 +62,8 @@ The "See it work" section is real pipeline output, not a mockup. `clipper/clip.p
 
 ## First-week launch offer
 1. **Free 3-clip sample.** No card needed. We deliver 3 finished, captioned clips from a recent VOD within 48h, plus a preview on a Postiz calendar. This is the main call to action and gets the quickest yes.
-2. **Founding Streamer offer: 50% off the first month for the first 10 streamers** (Starter $24.50, Growth $49.50, Pro $99.50). The cap of 10 is real: it's about how many clients one person can deliver for well in week one. Close every sample with: *"Want these every week? Founding price is half off this month."*
-3. Suggested week-one plan: send 20–30 personal pitches a day (offering the free sample), deliver samples within 48h, and follow up with the founding link. 3–5 paying streamers by day 7 is a realistic goal, not a promise.
+2. **Close with the plan price.** No discount: at $10 / $20 / $50 the price is already the hook. Close every sample with: *"Want these every week? It's $10 a month for about 12 clips, posted for you. Cancel anytime."*
+3. Suggested week-one plan: send 20–30 personal pitches a day (offering the free sample), deliver samples within 48h, and follow up with the plan link. 3–5 paying streamers by day 7 is a realistic goal, not a promise.
 
 **Outreach DM template** (personalize the first line):
 > Hey {name}, caught your {game} stream, and that {specific moment} would've done numbers as a Short. I run VodLift: we turn your VODs into captioned clips and schedule them to TikTok, Shorts, Reels and X for you. Want 3 free clips from your last stream? No card, no strings: postiznow.com/{page}
@@ -64,8 +74,8 @@ The "See it work" section is real pipeline output, not a mockup. `clipper/clip.p
 ## Setup checklist to take payments and leads
 
 **Payments (pick one)**
-- [ ] **Stripe Payment Links** (simplest): create 3 recurring products (Starter $49, Growth $99, Pro $199 per month). Turn on "Allow promotion codes" and create a coupon such as `FOUNDING50` (50% off, once, max 10 redemptions). Alternatively, make 3 separate founding links.
-- [ ] *or* **Lemon Squeezy**: it's the merchant of record and handles global sales tax/VAT. Create 3 subscription products and a 50%-off, 10-use discount.
+- [ ] **Stripe Payment Links** (simplest): create 3 recurring products (Starter $10, Growth $20, Pro $50 per month). No coupon is needed; the launch hook is the free 3-clip sample.
+- [ ] *or* **Lemon Squeezy**: it's the merchant of record and handles global sales tax/VAT. Create 3 subscription products ($10 / $20 / $50 per month).
 - [ ] Paste the 3 links into `index.html`, replacing `#TODO-stripe-link-starter`, `#TODO-stripe-link-growth` and `#TODO-stripe-link-pro`.
 - [ ] Set the post-payment redirect to a thank-you or onboarding form (VOD link, social handles, caption style).
 

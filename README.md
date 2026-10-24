@@ -4,6 +4,8 @@
 
 **Live site:** https://mustafakijai.github.io/vodlift/
 
+**Pricing:** Starter $10/mo (~12 clips), Growth $20/mo (~30 clips), Pro $50/mo (~60 clips). Every plan includes posting to TikTok, Shorts, Reels and X. Launch hook: 3 free clips, no card.
+
 ![Desktop preview](preview-desktop.png)
 
 ## What's in this repo
