@@ -1,0 +1,71 @@
+1
+00:00:00,250 --> 00:00:00,970
+okay,
+
+2
+00:00:01,130 --> 00:00:02,270
+I've run into a bit of
+
+3
+00:00:02,270 --> 00:00:04,690
+a problem even with high priority
+
+4
+00:00:04,690 --> 00:00:07,850
+tubes things just want to go
+
+5
+00:00:07,850 --> 00:00:09,170
+right back out
+
+6
+00:00:10,110 --> 00:00:11,490
+and it's very annoying
+
+7
+00:00:12,170 --> 00:00:14,510
+so basically what's happening is
+
+8
+00:00:14,510 --> 00:00:15,870
+things will come in here
+
+9
+00:00:16,410 --> 00:00:19,190
+they'll be go down but then
+
+10
+00:00:19,190 --> 00:00:20,430
+they'll keep goingant down and go
+
+11
+00:00:20,430 --> 00:00:22,450
+right back out and there's no
+
+12
+00:00:22,450 --> 00:00:24,030
+way of saying I don't want
+
+13
+00:00:24,030 --> 00:00:26,910
+things to go back I don't
+
+14
+00:00:26,910 --> 00:00:28,590
+know why to say I don't
+
+15
+00:00:28,590 --> 00:00:29,970
+want things going back in green
+
+16
+00:00:30,970 --> 00:00:32,810
+but apparently there isn't
+
+17
+00:00:33,560 --> 00:00:36,470
+what I don't understand is why
+
+18
+00:00:36,470 --> 00:00:38,310
+with high priority tubes

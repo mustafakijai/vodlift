@@ -1,0 +1,222 @@
+{
+  "source": "ayums5.mp4 (not included; see credit.url)",
+  "source_duration": 869.983333,
+  "model": "small",
+  "clips": [
+    {
+      "n": 1,
+      "start": 68.18,
+      "end": 101.8,
+      "duration": 33.62,
+      "score": 0.8133,
+      "reasons": {
+        "loudness": 0.878,
+        "speech": 0.908,
+        "wps": 3.25,
+        "keywords": 6,
+        "hook": 0.0,
+        "starts_clean": 1.0,
+        "max_gap": 1.04
+      },
+      "title": "this will be the first test",
+      "transcript": " to have two access doors and an input chest and a rejection chest  the reason we have those is because we're going to put all the items in on one side  and then they're going  going to go around the sorting system, and eventually  make their way through to the other side  and anything that doesn't get sorted is going to go into this chest  that way we don't have items floating around that don't belong and everything, and everything has a place to go in  okay, this will be the first test to see if my  high priority tube thing does what I think it should",
+      "files": {
+        "tiktok": {
+          "mp4": "clip1_tiktok.mp4",
+          "poster": "clip1_tiktok.jpg",
+          "size": [
+            540,
+            960
+          ],
+          "full_res_size": [
+            1080,
+            1920
+          ]
+        },
+        "reels": {
+          "mp4": "clip1_reels.mp4",
+          "poster": "clip1_reels.jpg",
+          "size": [
+            540,
+            960
+          ],
+          "full_res_size": [
+            1080,
+            1920
+          ]
+        },
+        "shorts": {
+          "mp4": "clip1_shorts.mp4",
+          "poster": "clip1_shorts.jpg",
+          "size": [
+            540,
+            960
+          ],
+          "full_res_size": [
+            1080,
+            1920
+          ]
+        },
+        "x": {
+          "mp4": "clip1_x.mp4",
+          "poster": "clip1_x.jpg",
+          "size": [
+            540,
+            540
+          ],
+          "full_res_size": [
+            1080,
+            1080
+          ]
+        }
+      }
+    },
+    {
+      "n": 2,
+      "start": 171.57,
+      "end": 197.13,
+      "duration": 25.56,
+      "score": 0.9065,
+      "reasons": {
+        "loudness": 0.916,
+        "speech": 0.767,
+        "wps": 2.29,
+        "keywords": 6,
+        "hook": 1.0,
+        "starts_clean": 1.0,
+        "max_gap": 1.62
+      },
+      "title": "this is the insanity",
+      "transcript": " okay, this is the insanity that is going to be required to make this compact  of a storage system with this many items in this small of a space  and it's a little a little bit crazy  so I'm going to go over it  so items flow in from here  and they go into this sorting tube",
+      "files": {
+        "tiktok": {
+          "mp4": "clip2_tiktok.mp4",
+          "poster": "clip2_tiktok.jpg",
+          "size": [
+            540,
+            960
+          ],
+          "full_res_size": [
+            1080,
+            1920
+          ],
+          "full_res_sample": "full/clip2_tiktok_1080x1920.mp4"
+        },
+        "reels": {
+          "mp4": "clip2_reels.mp4",
+          "poster": "clip2_reels.jpg",
+          "size": [
+            540,
+            960
+          ],
+          "full_res_size": [
+            1080,
+            1920
+          ]
+        },
+        "shorts": {
+          "mp4": "clip2_shorts.mp4",
+          "poster": "clip2_shorts.jpg",
+          "size": [
+            540,
+            960
+          ],
+          "full_res_size": [
+            1080,
+            1920
+          ]
+        },
+        "x": {
+          "mp4": "clip2_x.mp4",
+          "poster": "clip2_x.jpg",
+          "size": [
+            540,
+            540
+          ],
+          "full_res_size": [
+            1080,
+            1080
+          ]
+        }
+      }
+    },
+    {
+      "n": 3,
+      "start": 252.69,
+      "end": 291.45,
+      "duration": 38.76,
+      "score": 0.9729,
+      "reasons": {
+        "loudness": 0.921,
+        "speech": 0.893,
+        "wps": 2.42,
+        "keywords": 12,
+        "hook": 1.0,
+        "starts_clean": 1.0,
+        "max_gap": 1.0
+      },
+      "title": "I've run into a bit of a problem",
+      "transcript": " okay, I've run into a bit of a problem  even with high priority tubes  things just want to go right back out  and it's very annoying  so basically what's happening is things will come in here  they'll be go down  but then they'll keep goingant down and go right back out  and there's no way of saying  I don't want things to go back  I don't know why to say I don't want things going back in green  but apparently there isn't  what I don't understand is  why with high priority tubes",
+      "files": {
+        "tiktok": {
+          "mp4": "clip3_tiktok.mp4",
+          "poster": "clip3_tiktok.jpg",
+          "size": [
+            540,
+            960
+          ],
+          "full_res_size": [
+            1080,
+            1920
+          ]
+        },
+        "reels": {
+          "mp4": "clip3_reels.mp4",
+          "poster": "clip3_reels.jpg",
+          "size": [
+            540,
+            960
+          ],
+          "full_res_size": [
+            1080,
+            1920
+          ]
+        },
+        "shorts": {
+          "mp4": "clip3_shorts.mp4",
+          "poster": "clip3_shorts.jpg",
+          "size": [
+            540,
+            960
+          ],
+          "full_res_size": [
+            1080,
+            1920
+          ]
+        },
+        "x": {
+          "mp4": "clip3_x.mp4",
+          "poster": "clip3_x.jpg",
+          "size": [
+            540,
+            540
+          ],
+          "full_res_size": [
+            1080,
+            1080
+          ]
+        }
+      }
+    }
+  ],
+  "credit": {
+    "title": "Storage Space and Smelting Trees – Ayums Ep. 5",
+    "author": "benrob0329",
+    "url": "https://archive.org/details/storagespaceandsmeltingtreesayumsepisode51080p",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  "segments": 169,
+  "hero_clip": 3,
+  "web_note": "Files in assets/demo are the half-resolution (540x960 / 540x540) web previews. A full-resolution 1080x1920 sample is in assets/demo/full/."
+}

@@ -1,0 +1,47 @@
+1
+00:00:00,250 --> 00:00:00,810
+okay,
+
+2
+00:00:00,810 --> 00:00:03,090
+this is the insanity that is
+
+3
+00:00:03,090 --> 00:00:04,270
+going to be required to make
+
+4
+00:00:04,270 --> 00:00:06,210
+this compact of a storage system
+
+5
+00:00:06,210 --> 00:00:07,990
+with this many items in this
+
+6
+00:00:07,990 --> 00:00:08,910
+small of a space
+
+7
+00:00:10,530 --> 00:00:12,330
+and it's a little a little
+
+8
+00:00:12,330 --> 00:00:13,310
+bit crazy
+
+9
+00:00:14,650 --> 00:00:16,530
+so I'm going to go over
+
+10
+00:00:16,530 --> 00:00:17,590
+it so
+
+11
+00:00:20,410 --> 00:00:22,490
+items flow in from here and
+
+12
+00:00:22,490 --> 00:00:25,110
+they go into this sorting tube

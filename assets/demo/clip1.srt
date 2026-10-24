@@ -1,0 +1,87 @@
+1
+00:00:00,250 --> 00:00:02,550
+to have two access doors and
+
+2
+00:00:02,550 --> 00:00:04,170
+an input chest and a rejection
+
+3
+00:00:04,170 --> 00:00:04,650
+chest
+
+4
+00:00:05,150 --> 00:00:06,950
+the reason we have those is
+
+5
+00:00:06,950 --> 00:00:08,030
+because we're going to put all
+
+6
+00:00:08,030 --> 00:00:09,270
+the items in on one side
+
+7
+00:00:09,270 --> 00:00:10,490
+and then they're going going to
+
+8
+00:00:10,490 --> 00:00:11,870
+go around the sorting system,
+
+9
+00:00:11,870 --> 00:00:13,830
+and eventually make their way through
+
+10
+00:00:13,830 --> 00:00:14,570
+to the other side
+
+11
+00:00:15,090 --> 00:00:16,610
+and anything that doesn't get sorted
+
+12
+00:00:16,610 --> 00:00:17,690
+is going to go into this
+
+13
+00:00:17,690 --> 00:00:19,190
+chest that way we don't have
+
+14
+00:00:19,190 --> 00:00:20,750
+items floating around that don't
+
+15
+00:00:20,750 --> 00:00:21,750
+belong and everything,
+
+16
+00:00:21,750 --> 00:00:22,430
+and everything has a place to
+
+17
+00:00:22,430 --> 00:00:22,650
+go in
+
+18
+00:00:23,690 --> 00:00:24,290
+okay,
+
+19
+00:00:24,290 --> 00:00:25,950
+this will be the first test
+
+20
+00:00:25,950 --> 00:00:28,230
+to see if my
+
+21
+00:00:29,190 --> 00:00:32,570
+high priority tube thing does what
+
+22
+00:00:32,570 --> 00:00:33,170
+I think it should
